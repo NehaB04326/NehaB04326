@@ -8,27 +8,9 @@ Full-Stack Developer • AI Enthusiast • MERN Stack Developer • Machine Lear
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;AI+%26+Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
----
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
 
-  <a href="https://github.com/NehaB04326">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-
-  <a href="https://leetcode.com/your-leetcode">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-</p>
-
----
 
 # 🚀 About Me
 
@@ -81,8 +63,15 @@ Full-Stack Developer • AI Enthusiast • MERN Stack Developer • Machine Lear
   <img src="https://github-readme-stats.vercel.app/api?username=NehaB04326&show_icons=true&theme=tokyonight" />
 </p>
 
+---
 
+# 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NehaB04326&theme=tokyonight" />
+</p>
+
+---
 
 # 🌟 Most Used Languages
 
@@ -90,7 +79,7 @@ Full-Stack Developer • AI Enthusiast • MERN Stack Developer • Machine Lear
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaB04326&layout=compact&theme=tokyonight" />
 </p>
 
-
+---
 
 # 🏆 Achievements
 
