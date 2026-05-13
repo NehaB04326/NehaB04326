@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone! I'm Neha 👋</h1>
 
-<h3 align="center">Full-Stack Developer • AI Enthusiast • MERN Stack Learner</h3>
+<h3 align="center">Full-Stack Developer • AI Enthusiast • MERN Stack Devloper • Machine Learning </h3>
 
 ---
 
@@ -55,10 +55,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="C:\Users\NEHA\OneDrive\Pictures\Screenshots\Screenshot 2026-05-13 205225.png"/>
+  <img src="<img width="189" height="236" alt="Screenshot 2026-05-13 205225" src="https://github.com/user-attachments/assets/78f1a70f-e21c-41ea-a89f-fb471b18b6a7" />
+"/>
 </p>
 <p align="center">
- <img src="C:\Users\NEHA\OneDrive\Pictures\Screenshots\Screenshot 2026-05-13 205236.png"/>
+ <img src="<img width="1279" height="377" alt="Screenshot 2026-05-13 205236" src="https://github.com/user-attachments/assets/0ec9caf4-295e-49dd-a904-9918df5433b1" />
+"/>
 </p>
 ---
 
@@ -72,6 +74,4 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
