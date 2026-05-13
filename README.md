@@ -71,20 +71,9 @@ Full-Stack Developer • AI Enthusiast • MERN Stack Developer • Machine Lear
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,render" />
 </p>
 
----
 
-# 📌 Featured Projects
 
-## 🎫 AI Ticket Management System
-AI-powered support ticket system using MERN + Gemini API.
 
-## 📄 QueryDoc
-AI document intelligence platform using Streamlit, Gemini, Groq LLaMA & ChromaDB.
-
-## 🍽️ Feastify
-Full-stack restaurant reservation system using MERN stack.
-
----
 
 # 📊 GitHub Stats
 
@@ -92,15 +81,8 @@ Full-stack restaurant reservation system using MERN stack.
   <img src="https://github-readme-stats.vercel.app/api?username=NehaB04326&show_icons=true&theme=tokyonight" />
 </p>
 
----
 
-# 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NehaB04326&theme=tokyonight" />
-</p>
-
----
 
 # 🌟 Most Used Languages
 
@@ -108,7 +90,7 @@ Full-stack restaurant reservation system using MERN stack.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaB04326&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 # 🏆 Achievements
 
