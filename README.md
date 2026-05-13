@@ -48,31 +48,21 @@
 
 ---
 
-# 📌 Featured Projects
 
-## 🎫 AI Ticket Management System
-AI-powered support ticket system using MERN + Gemini API.
 
-## 🎓 CampusThread
-A networking platform connecting students and alumni.
 
----
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaB04326&show_icons=true&theme=tokyonight"/>
+  <img src="C:\Users\NEHA\OneDrive\Pictures\Screenshots\Screenshot 2026-05-13 205225.png"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NehaB04326&theme=tokyonight"/>
+ <img src="C:\Users\NEHA\OneDrive\Pictures\Screenshots\Screenshot 2026-05-13 205236.png"/>
 </p>
-
 ---
+
+
 
 # 🌟 Most Used Languages
 
