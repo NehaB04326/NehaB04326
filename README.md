@@ -57,13 +57,7 @@ Full-Stack Developer • AI Enthusiast • MERN Stack Developer • Machine Lear
 
 
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaB04326&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -71,15 +65,9 @@ Full-Stack Developer • AI Enthusiast • MERN Stack Developer • Machine Lear
   <img src="https://streak-stats.demolab.com?user=NehaB04326&theme=tokyonight" />
 </p>
 
----
 
-# 🌟 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaB04326&layout=compact&theme=tokyonight" />
-</p>
 
----
 
 # 🏆 Achievements
 
@@ -87,8 +75,6 @@ Full-Stack Developer • AI Enthusiast • MERN Stack Developer • Machine Lear
 - 👩‍💻 Commander at Competitive Programming Mentorship Club
 - 🚀 Built AI + Full Stack projects using MERN & ML technologies
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NehaB04326&label=Profile%20Views&color=blue&style=flat" />
-</p>
+
+
