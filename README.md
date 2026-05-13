@@ -1,11 +1,17 @@
 <h1 align="center">Hey Everyone! I'm Neha 👋</h1>
 
-<h3 align="center">Full-Stack Developer • AI Enthusiast • MERN Stack Devloper • Machine Learning </h3>
+<h3 align="center">
+Full-Stack Developer • AI Enthusiast • MERN Stack Developer • Machine Learning Explorer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;AI+%26+Backend+Developer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
@@ -16,6 +22,10 @@
   <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
+
+  <a href="https://leetcode.com/your-leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
 </p>
 
 ---
@@ -23,55 +33,91 @@
 # 🚀 About Me
 
 - 💻 MERN Stack Developer
-- 🤖 Exploring AI Integrations
-- 🌱 Currently learning System Design
-- 🎯 Focused on Backend Development
-- ⚡ Building real-world projects
+- 🤖 Exploring AI Integrations & LLMs
+- 🌱 Currently learning System Design & Scalable Backend
+- 📊 Working on Machine Learning & Streamlit Apps
+- ⚡ Building real-world full-stack projects
+- 🧠 Passionate about Problem Solving & DSA
+- 🎯 Interested in Backend Engineering & AI Systems
 - ☕ Fueled by coffee and curiosity
 
 ---
 
 # 🛠️ Tech Stack
 
-## Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+## 🚀 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,javascript" />
+</p>
 
-## Backend
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express)
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-## Database
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
+## 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="120"/>
+</p>
+
+## 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,render" />
+</p>
 
 ---
 
+# 📌 Featured Projects
 
+## 🎫 AI Ticket Management System
+AI-powered support ticket system using MERN + Gemini API.
 
+## 📄 QueryDoc
+AI document intelligence platform using Streamlit, Gemini, Groq LLaMA & ChromaDB.
 
+## 🍽️ Feastify
+Full-stack restaurant reservation system using MERN stack.
+
+---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="<img width="189" height="236" alt="Screenshot 2026-05-13 205225" src="https://github.com/user-attachments/assets/78f1a70f-e21c-41ea-a89f-fb471b18b6a7" />
-"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NehaB04326&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center">
- <img src="<img width="1279" height="377" alt="Screenshot 2026-05-13 205236" src="https://github.com/user-attachments/assets/0ec9caf4-295e-49dd-a904-9918df5433b1" />
-"/>
-</p>
+
 ---
 
+# 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NehaB04326&theme=tokyonight" />
+</p>
+
+---
 
 # 🌟 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaB04326&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaB04326&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+# 🏆 Achievements
 
+- 🥇 Techfiesta Hackathon Finalist — Top 65 out of 700+ teams
+- 👩‍💻 Commander at Competitive Programming Mentorship Club
+- 🚀 Built AI + Full Stack projects using MERN & ML technologies
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NehaB04326&label=Profile%20Views&color=blue&style=flat" />
+</p>
