@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neha</h1>
+<h1 align="center">Hello Everyone, I'm Neha Bhamare</h1>
 
 <h3 align="center">
   Full-Stack Developer • MERN Stack Developer • AI & ML Enthusiast
@@ -11,16 +11,12 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="www.linkedin.com/in/bheamareneha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:nehabhamare0405@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://yourportfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
