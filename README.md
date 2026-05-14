@@ -1,3 +1,4 @@
+<img width="189" height="236" alt="Screenshot 2026-05-13 205225" src="https://github.com/user-attachments/assets/8d652ea2-ac40-4cf4-a5d1-c0fdda5b4385" />
 <h1 align="center">Hi, I'm Neha 👋</h1>
 
 <p align="center">
@@ -49,7 +50,7 @@ I'm a developer who loves building full-stack apps and exploring how AI can make
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github.com/user-attachments/assets/8d652ea2-ac40-4cf4-a5d1-c0fdda5b4385)"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
