@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="www.linkedin.com/in/bheamareneha">
+  <a href="https://www.linkedin.com/in/bheamareneha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
