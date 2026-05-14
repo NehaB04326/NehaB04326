@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;DSA+Learner;Building+Cool+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;DSA+Learner;Building+Cool+Projects+🚀" />
 </p>
 
 ---
@@ -67,9 +67,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github.com/user-attachments/assets/b6623011-4472-49dd-80d8-85860e1d9ed7" />
+  <img width="48%" src="https://github.com/user-attachments/assets/c5112714-0ac3-47ba-a088-d1d27460ddae" />
   
-  <img width="45%" src="https://github.com/user-attachments/assets/8d652ea2-ac40-4cf4-a5d1-c0fdda5b4385" />
+  <img width="48%" src="https://github.com/user-attachments/assets/f3a0575b-8a65-4c72-b998-0c44beca7998" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github.com/user-attachments/assets/317a0d05-ce98-49e4-a437-53000fa1193d" />
 </p>
 
 ---
@@ -79,11 +83,19 @@
 ```javascript
 const neha = {
     code: ["JavaScript", "C++", "Python"],
+
     technologies: {
         frontend: ["React", "Next.js", "Tailwind"],
         backend: ["Node.js", "Express"],
         database: ["MongoDB", "MySQL"],
         ai_ml: ["Scikit-Learn", "Streamlit"]
     },
-    currentlyLearning: ["System Design", "Cloud", "LLMs"],
+
+    currentlyLearning: [
+        "System Design",
+        "Cloud",
+        "LLMs"
+    ],
+
+    funFact: "I turn coffee into code ☕"
 };
