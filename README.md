@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone, I'm Neha Bhamare</h1>
+<h1 align="center">Hello Everyone, I'm Neha </h1>
 
 <h3 align="center">
   Full-Stack Developer • MERN Stack Developer • AI & ML Enthusiast
